@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "chest",
+  "group": "barrel",
   "pattern": [
     "#-#",
     "# #",
@@ -9,9 +9,6 @@
   "key": {
     "#": {
       "item": "minecraft:birch_planks"
-    },
-    "-": {
-      "item": "minecraft:birch_slab"
     },
     "-": {
       "item": "minecraft:birch_slab"
