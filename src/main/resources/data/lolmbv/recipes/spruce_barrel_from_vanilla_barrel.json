@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "group": "chest",
+  "group": "barrel",
   "ingredients": [
     {
       "item": "minecraft:barrel"
