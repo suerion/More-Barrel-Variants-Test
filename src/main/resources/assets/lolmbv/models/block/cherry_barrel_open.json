@@ -1,9 +1,0 @@
-{
-    "parent": "minecraft:block/cube_bottom_top",
-    "textures": {
-        "bottom": "lolmbv:block/cherry_barrel_bottom",
-        "side": "lolmbv:block/cherry_barrel_side",
-        "top": "lolmbv:block/cherry_barrel_top_open",
-        "particle": "minecraft:block/cherry_planks"
-    }
-}
