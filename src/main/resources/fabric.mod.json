@@ -17,13 +17,13 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.pnku.mbv.MoreBarrelVariants"
+			"com.pnku.mblv.MoreBarrelVariants"
 		]
 	},
 	"mixins": [
-		"lolmbv.mixins.json"
+		"lolmblv.mixins.json"
 	],
-	"accessWidener": "lolmbv.accesswidener",
+	"accessWidener": "lolmblv.accesswidener",
 	"depends": {
 		"fabricloader": ">=${loader_version}",
 		"minecraft": ">=1.21",

@@ -1,9 +1,0 @@
-{
-    "parent": "minecraft:block/cube_bottom_top",
-    "textures": {
-        "bottom": "lolmbv:block/bamboo_barrel_bottom",
-        "side": "lolmbv:block/bamboo_barrel_side",
-        "top": "lolmbv:block/bamboo_barrel_top",
-        "particle": "minecraft:block/bamboo_planks"
-    }
-}
