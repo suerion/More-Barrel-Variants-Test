@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "chest",
+  "pattern": [
+    "#-#",
+    "# #",
+    "#-#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:bamboo_planks"
+    },
+    "-": {
+      "item": "minecraft:bamboo_slab"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "lolmbv:bamboo_barrel"
+  }
+}

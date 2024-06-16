@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "chest",
+  "pattern": [
+    "#-#",
+    "# #",
+    "#-#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:crimson_planks"
+    },
+    "-": {
+      "item": "minecraft:crimson_slab"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "lolmbv:crimson_barrel"
+  }
+}

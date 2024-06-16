@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/cube_bottom_top",
+    "textures": {
+        "bottom": "lolmbv:block/jungle_barrel_bottom",
+        "side": "lolmbv:block/jungle_barrel_side",
+        "top": "lolmbv:block/jungle_barrel_top",
+        "particle": "minecraft:block/jungle_planks"
+    }
+}

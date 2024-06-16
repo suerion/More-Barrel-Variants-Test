@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/cube_bottom_top",
+    "textures": {
+        "bottom": "lolmbv:block/mangrove_barrel_bottom",
+        "side": "lolmbv:block/mangrove_barrel_side",
+        "top": "lolmbv:block/mangrove_barrel_top",
+        "particle": "minecraft:block/mangrove_planks"
+    }
+}

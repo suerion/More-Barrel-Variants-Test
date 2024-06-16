@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "lolmbv:oak_barrel",
+    "lolmbv:spruce_barrel",
+    "lolmbv:birch_barrel",
+    "lolmbv:jungle_barrel",
+    "lolmbv:acacia_barrel",
+    "lolmbv:dark_oak_barrel",
+    "lolmbv:crimson_barrel",
+    "lolmbv:warped_barrel",
+    "lolmbv:mangrove_barrel",
+    "lolmbv:bamboo_barrel",
+    "lolmbv:cherry_barrel"
+  ]
+}

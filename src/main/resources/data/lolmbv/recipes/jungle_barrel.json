@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "chest",
+  "pattern": [
+    "#-#",
+    "# #",
+    "#-#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:jungle_planks"
+    },
+    "-": {
+      "item": "minecraft:jungle_slab"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "lolmbv:jungle_barrel"
+  }
+}
