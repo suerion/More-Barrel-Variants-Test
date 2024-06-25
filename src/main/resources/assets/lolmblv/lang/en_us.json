@@ -1,6 +1,5 @@
 {
   "block.lolmblv.oak_barrel": "Oak Barrel" ,
-  "block.lolmblv.spruce_barrel": "Spruce Barrel" ,
   "block.lolmblv.birch_barrel": "Birch Barrel" ,
   "block.lolmblv.jungle_barrel": "Jungle Barrel" ,
   "block.lolmblv.acacia_barrel": "Acacia Barrel" ,
@@ -11,7 +10,6 @@
   "block.lolmblv.crimson_barrel": "Crimson Barrel" ,
   "block.lolmblv.warped_barrel": "Warped Barrel" ,
   "container.lolmblv.oak_barrel": "Oak Barrel" ,
-  "container.lolmblv.spruce_barrel": "Spruce Barrel" ,
   "container.lolmblv.birch_barrel": "Birch Barrel" ,
   "container.lolmblv.jungle_barrel": "Jungle Barrel" ,
   "container.lolmblv.acacia_barrel": "Acacia Barrel" ,

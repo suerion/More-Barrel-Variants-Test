@@ -12,7 +12,6 @@ import net.minecraft.registry.Registry;
 
 public class MblvItemInit {
     public static final BlockItem OAK_BARREL_I = new BlockItem(MblvBlockInit.OAK_BARREL, new Item.Settings());
-    public static final BlockItem SPRUCE_BARREL_I = new BlockItem(MblvBlockInit.SPRUCE_BARREL, new Item.Settings());
     public static final BlockItem BIRCH_BARREL_I = new BlockItem(MblvBlockInit.BIRCH_BARREL, new Item.Settings());
     public static final BlockItem JUNGLE_BARREL_I = new BlockItem(MblvBlockInit.JUNGLE_BARREL, new Item.Settings());
     public static final BlockItem ACACIA_BARREL_I = new BlockItem(MblvBlockInit.ACACIA_BARREL, new Item.Settings());
@@ -26,8 +25,7 @@ public class MblvItemInit {
 
     public static void registerItems() {
         registerItem(OAK_BARREL_I, Items.BARREL);
-        registerItem(SPRUCE_BARREL_I, OAK_BARREL_I);
-        registerItem(BIRCH_BARREL_I, SPRUCE_BARREL_I);
+        registerItem(BIRCH_BARREL_I, OAK_BARREL_I);
         registerItem(JUNGLE_BARREL_I, BIRCH_BARREL_I);
         registerItem(ACACIA_BARREL_I, JUNGLE_BARREL_I);
         registerItem(DARK_OAK_BARREL_I, ACACIA_BARREL_I);
