@@ -1,6 +1,5 @@
 {
   "block.lolmblv.oak_barrel": "Eichenholzfass" ,
-  "block.lolmblv.spruce_barrel": "Fichtenholzfass" ,
   "block.lolmblv.birch_barrel": "Birkenholzfass" ,
   "block.lolmblv.jungle_barrel": "Tropenholzfass" ,
   "block.lolmblv.acacia_barrel": "Akazienholzfass" ,
@@ -11,7 +10,6 @@
   "block.lolmblv.crimson_barrel": "Karmesinfass" ,
   "block.lolmblv.warped_barrel": "Wirrfass" ,
   "container.lolmblv.oak_barrel": "Eichenholzfass" ,
-  "container.lolmblv.spruce_barrel": "Fichtenholzfass" ,
   "container.lolmblv.birch_barrel": "Birkenholzfass" ,
   "container.lolmblv.jungle_barrel": "Tropenholzfass" ,
   "container.lolmblv.acacia_barrel": "Akazienholzfass" ,

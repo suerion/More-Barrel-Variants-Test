@@ -13,7 +13,6 @@ import java.util.List;
 
 public class MblvBlockInit {
     public static final MoreBarrelBlock OAK_BARREL = new MoreBarrelBlock(MapColor.OAK_TAN, "oak");
-    public static final MoreBarrelBlock SPRUCE_BARREL = new MoreBarrelBlock(MapColor.SPRUCE_BROWN, "spruce");
     public static final MoreBarrelBlock BIRCH_BARREL = new MoreBarrelBlock(MapColor.PALE_YELLOW, "birch");
     public static final MoreBarrelBlock JUNGLE_BARREL = new MoreBarrelBlock(MapColor.DIRT_BROWN, "jungle");
     public static final MoreBarrelBlock ACACIA_BARREL = new MoreBarrelBlock(MapColor.ORANGE, "acacia");
@@ -29,7 +28,6 @@ public class MblvBlockInit {
 
     public static void registerBlocks() {
         registerBlock(OAK_BARREL);
-        registerBlock(SPRUCE_BARREL);
         registerBlock(BIRCH_BARREL);
         registerBlock(JUNGLE_BARREL);
         registerBlock(ACACIA_BARREL);
