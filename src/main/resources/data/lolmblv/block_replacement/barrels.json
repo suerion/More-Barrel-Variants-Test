@@ -1,6 +1,13 @@
 {
   "values": [
     {
+      "structures": "#quad:is/oak",
+      "block_replacement": {
+        "targets": "minecraft:barrel",
+        "replacement": "lolmblv:oak_barrel"
+      }
+    },
+    {
       "structures": "#quad:is/birch",
       "block_replacement": {
         "targets": "minecraft:barrel",
