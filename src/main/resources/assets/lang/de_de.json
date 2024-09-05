@@ -1,1 +1,4 @@
-test
+{
+  "block.minecraft.barrel": "Fichtenholzfass" ,
+  "container.minecraft.barrel": "Fichtenholzfass"
+}
